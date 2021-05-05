@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="filePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IPaddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="protocol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HTTP</Value>
+    </Setting>
+    <Setting Name="IPauto" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.1.0</Value>
+    </Setting>
+    <Setting Name="phpFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">php-cgi.exe</Value>
+    </Setting>
+    <Setting Name="startFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">index.html</Value>
+    </Setting>
+    <Setting Name="httpPortNum" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="httpsPortNum" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">443</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

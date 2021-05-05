@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.about.resources
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.Config.resources
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.MainForm.resources
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.Resources.resources
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.SSLSettings.resources
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\bin\Debug\PHPMiniServer.exe.config
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\bin\Debug\PHPMiniServer.exe
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\bin\Debug\PHPMiniServer.pdb
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\bin\Debug\PHPMiniServer.xml
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\Phpminiserver.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\PHPMiniServer.exe
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\PHPMiniServer.xml
+C:\Users\Administrator\Desktop\Mini-Web-Server-master\MiniWebServer\obj\Debug\PHPMiniServer.pdb
